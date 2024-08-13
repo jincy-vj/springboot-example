@@ -23,4 +23,5 @@ public class Product {
     private int quantity;
     @Column(name = "price")
     private double price;
+
 }
